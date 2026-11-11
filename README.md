@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/logo.png" width="112" alt="BlurSafe logo" />
+
 # BlurSafe
 
 **Blur faces and private details in photos, fast and without losing any quality.**
